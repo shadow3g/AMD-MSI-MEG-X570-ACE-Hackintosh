@@ -1,10 +1,14 @@
 # AMD-MSI-MEG-X570-ACE-Hackintosh <br/>
 ## Hackintosh EFI config files for MSI MEG X570 ACE <br/>
 
+[Guide Used - OpenCore Vanilla](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+
 ![MSI_X570_ACE](MSI_X570_Motherboard.png)
 
 ### MEMORY <br/>
-Up to 128GB works, all motherboard supported dims work
+	Up to 128GB works, all motherboard supported dims work
+
+See [MSI support page](https://www.msi.com/Motherboard/support/MEG-X570-ACE#support-mem-19)
 
 ### AMD® X570 Chipset <br/>
 	4x SATA 6Gb/s ports - Works <br/>
