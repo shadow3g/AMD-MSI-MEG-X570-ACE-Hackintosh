@@ -1,8 +1,6 @@
 # AMD-MSI-MEG-X570-ACE-Hackintosh
 Hackintosh EFI config files for MSI MEG X570 ACE
 
-CHIPSET : Works okay
-AMD® X570 Chipset
 MEMORY - Up to 128GB works, all motherboard supported dims work
 
 AMD® X570 Chipset
