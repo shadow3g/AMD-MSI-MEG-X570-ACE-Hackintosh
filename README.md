@@ -62,4 +62,4 @@ See [MSI support page](https://www.msi.com/Motherboard/support/MEG-X570-ACE#supp
 
 ![Mac_OS_System_Information](MSI_x570_Hackintosh.png)
 
-[a System Report for all connected hardware](./Mac_Pro_SystemReport.spx)
+[System Report for all connected hardware](./Mac_Pro_SystemReport.spx)
